@@ -81,6 +81,7 @@ print("C:\\Users\\Hyojung Kim\\Desktop\2023_6_13_Hyojung_Kim\\GitHub\\Python")
 
 #\r
 print("Red Apple\rPine")
+print("Red  Apple\rPine")
 
 #\b
 print("Redd\bApple")
